@@ -1,2 +1,2 @@
-# Gr-ficoFun-oQuadr-tica-Fun-oQuadr-tica
+# Gráfico Função Quadrática 
 Calcula e gera um gráfico de função do segundo grau.
